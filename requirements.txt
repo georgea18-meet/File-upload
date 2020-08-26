@@ -21,7 +21,6 @@ google-cloud-storage==1.18.0
 google-resumable-media==0.3.2
 googleapis-common-protos==1.6.0
 grpcio==1.22.0
-gyp==0.1
 httplib2==0.13.1
 idna==2.6
 ipaddress==1.0.17
